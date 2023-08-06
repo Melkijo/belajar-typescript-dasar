@@ -2,7 +2,8 @@ describe('Type Alias', () => {
     it("should support in typescript", () => {
         const category = {
             id: "1",
-            name: "pecah belah"
+            name: "pecah belah",
+            desc: "hati hati"
         };
         const product = {
             id: "1",
